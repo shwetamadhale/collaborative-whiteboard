@@ -33,7 +33,7 @@ A real-time collaborative whiteboard built with Next.js, Convex, and Liveblocks.
 1. Clone the repository and install dependencies:
 
 ```bash
-git clone <your-repo-url>
+git clone [<your-repo-url>](https://github.com/shwetamadhale/collaborative-whiteboard.git)
 cd collaborative-whiteboard
 npm install
 ```
