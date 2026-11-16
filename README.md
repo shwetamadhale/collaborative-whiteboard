@@ -78,16 +78,6 @@ Open http://localhost:3000.
 | `npm run start` | Start the production server |
 | `npm run lint` | Run ESLint |
 
-## Project Structure
 
-```
-app/                  Dashboard, API routes, and board canvas
-components/           Shared UI components
-convex/               Schema, queries, mutations, auth config
-hooks/                Custom React hooks
-lib/                  Utilities
-providers/            Convex and modal providers
-store/                Zustand stores
-types/                TypeScript types
 ```
 
